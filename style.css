@@ -46,6 +46,9 @@ nav{
 .nav-links ul li:hover::after{
     width:100%;
 }
+.close-icon{
+    display:none;
+}
 .text-box{
     width:90%;
     color: #fff;
